@@ -1,0 +1,21 @@
+{
+  "metadata": [
+    {
+      "description": "The native staking and governance token of the Evmos chain",
+      "denom_units": [
+        {
+          "denom": "acoina",
+          "exponent": 0
+        },
+        {
+          "denom": "coina",
+          "exponent": 18
+        }
+      ],
+      "base": "acoina",
+      "display": "acoina",
+      "name": "acoina",
+      "symbol": "coina"
+    }
+  ]
+}
