@@ -84,4 +84,8 @@ dependency-graph.png
 # OpenZeppelin contracts
 contracts/@openzeppelin/*
 
+<<<<<<< HEAD
 ./run.sh
+=======
+run.sh
+>>>>>>> origin/main
