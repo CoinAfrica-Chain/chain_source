@@ -135,7 +135,7 @@ fi
 
 #coinad start --pruning=nothing "$TRACE"  --minimum-gas-prices=0.0001acoina --rpc.laddr tcp://0.0.0.0:26657 --log_level $LOGLEVEL --json-rpc.api eth,txpool,personal,net,debug,web3 --api.enable --home "$HOMEDIR"
 
-coinad start --pruning=nothing "$TRACE"  --rpc.laddr tcp://0.0.0.0:26657 --log_level $LOGLEVEL --json-rpc.api eth,txpool,personal,net,debug,web3 --api.enable --home "$HOMEDIR"
+# coinad start --pruning=nothing "$TRACE"  --rpc.laddr tcp://0.0.0.0:26657 --log_level $LOGLEVEL --json-rpc.api eth,txpool,personal,net,debug,web3 --api.enable --home "$HOMEDIR"
 
 
 
